@@ -5,7 +5,10 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
-### h3 header
+### h3 header: list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 #### h4 header
 ##### h5 header
 ###### h6 header
